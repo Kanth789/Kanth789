@@ -63,11 +63,3 @@ All my projects are available on **[GitHub](https://github.com/Kanth789)**.
 **Backend:** Node.js · Express.js · FastAPI · REST APIs
 **Database:** MongoDB · SQL
 **Engineering:** Git · CI/CD · Feature Flags · Testing · System Design
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanth789&show_icons=true&locale=en" alt="kanth789" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanth789" alt="kanth789" />
-</p>
