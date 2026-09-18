@@ -58,8 +58,8 @@ All my projects are available on **[GitHub](https://github.com/Kanth789)**.
 
 ### 🤖 AI & Engineering
 
-**AI / LLM:** RAG · LLMs · Vector Search · Embeddings · AI Agents · Prompt Engineering
-**Frontend:** React · TypeScript · Next.js · Redux · Tailwind CSS · Responsive UI
-**Backend:** Node.js · Express.js · FastAPI · REST APIs
-**Database:** MongoDB · SQL
-**Engineering:** Git · CI/CD · Feature Flags · Testing · System Design
+*AI / LLM:* RAG · LLMs · Vector Search · Embeddings · AI Agents · Prompt Engineering
+*Frontend:* React · TypeScript · Next.js · Redux · Tailwind CSS · Responsive UI
+*Backend:* Node.js · Express.js · FastAPI · REST APIs
+*Database:* MongoDB · SQL
+*Engineering:* Git · CI/CD · Feature Flags · Testing · System Design
