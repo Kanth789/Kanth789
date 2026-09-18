@@ -64,12 +64,6 @@ All my projects are available on **[GitHub](https://github.com/Kanth789)**.
 **Database:** MongoDB · SQL
 **Engineering:** Git · CI/CD · Feature Flags · Testing · System Design
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanth789&show_icons=true&locale=en&layout=compact" alt="kanth789" />
-</p>
-
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanth789&show_icons=true&locale=en" alt="kanth789" />
 </p>
